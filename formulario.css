@@ -1,0 +1,65 @@
+body{
+	padding:16px;
+	border-radius:10px;
+	margin:0;
+	background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(https://cdn.pixabay.com/photo/2016/03/07/00/00/cinema-1241422_960_720.jpg);
+}
+#formulario{
+    width: 400px;
+    height: 600px; 
+    background-color: rgba(0, 0, 0,0.8);
+    color: white;
+    text-align: center;
+    justify-content: center;
+  }
+  
+h1{margin: 0; margin-top: 30px;}
+
+
+#recomendado{
+  display: flex;
+  
+  overflow-x: scroll;
+  height: 300px;
+  width: 80vw;
+  flex-direction: row;
+  font-size: 280px;
+}
+#recomendado span{
+  margin-right: -60px;
+    -webkit-text-stroke: 2px rgb(248, 31, 31);
+    color: transparent; 
+  }
+
+
+main{display: flex; margin: auto;   justify-content: center;}
+
+button{
+   width: 200px;
+   padding:10px 20px;
+   background-color: red;
+   color: white;
+   align-items: center;
+   justify-content: center;
+   display:block;
+   border-radius: 0;
+   margin: auto;
+ }
+  
+
+
+
+  
+  #txtUser,#txtPassword,#txtnombre{
+      background-color: grey;
+      border-style:none;
+     border-radius: 5px;  
+     display:block;
+     width: 300px;
+     height: 50px;
+     margin: auto;
+  }
+  
+  div img{
+    color: rgba(0,0,0,0.5);
+  }

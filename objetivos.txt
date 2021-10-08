@@ -1,0 +1,71 @@
+Con los códigos aportados por el resto del grupo referentes al body de la página:
+
+-diseñar un side nav bar
+-incluir search bar
+
+lograr del side bar:
+
+-que al hacer click, modifique solo el body de la página mostrando el formato en cuestión: series o películas.
+
+-que los generos sean aplicables tanto a películas como a series, y que al apretar en ellos, solo nos muestre lo referente a esas 
+categorías
+
+intentar con radio buttons: pues al seleccionar una no puedes seleccionar la otra. El display de todas será none, pero al tocar el radio b
+button se mostrará.
+
+21:36 5/10/2021
+Organizar el código para que sea entendible. Estudiar el código
+Solucionar el wrap
+insertar los botones.
+Comentar el código.
+
+min width no deja que baje mas de eso. pero... aside tenía overflow hidden, si le ponemos scroll, nos mostrará como no se achica mas de ahi
+
+quiero que: al apretar comedia, aparezca un titulo arriba de la img que me indique que estamos en comedy
+
+objetivo:
+0:53 6/10/2021
+1-stylish ver.html. Nombre peli, director/a, año, genero, duración, elenco, descripción de la peli.
+2-hacer un div con recomendados debe aparecer debajo del carousel con overflox-x scroll.
+3-hacer un div con ranking. al apretar nav, cerrar ranking div :))))) que boeno.
+4-insertar botones que dirijan a los form.
+5-elegir font pairing.
+6-confirmar paleta de colores.
+7-introducior footer a los html. En el, informacion de los participantes, contacto, iconos redes, copyrigth, lo que sea.
+
+tareas pendientes del dia anterior:
+1, 3, 6, 7
+
+objetivo del dia anterior: 5/10
+1-completar html 80/100
+2-nest aside in <a>>>> video
+3-ver.html	
+4-grabar video.
+5-paleta de colores.
+6-formularios
+7-estilizar form.
+8-lograr disposición del flexbox.
+
+12:20 8/10/2021
+objetivos 0:38 6/10/2021;
+rehacer la sitio web, reciclar todo lo útil dado a un problema que tuvimos con los @media, quizá por conflictos con los scripts
+dado al descarte de los scripts, hacer un html de pelis y otro de series
+aprender grid dado a no obtener el resultado deseado con flexbox para pelis y series.html
+complementar html
+cambiar todas las imágenes por cuestiones estéticas, en caso de molestia por copyright, volverlas a freebank images
+hacer una página de bienvenida. Nuestro primer sitio reunía estos 3 html en 1, por lo que reciclando su contenido, y complementando el contenido, los dividimos.
+
+objetivos: 7/10/2021
+actualizar movies, series.html
+complementar más html.
+hacer div de ranking
+hacer div de rec
+hacer div de mylist
+crear e insertar los divs en catalog html y agregarle las clases correspondientes para su correcta disposición
+objetivos 0:31 8/10/2021
+
+cambiar las imágenes de catálogo.html para que parezca real
+actualizar ver.html
+completar los headers y estilizarlos los puntos finales
+footer, agregarlo a todas las páginas
+formularios...
